@@ -41,6 +41,10 @@ const App = () => {
     setIsModalVisible(!isModalVisible);
   }
 
+  const onHandleTick = () => {
+    
+  }
+
   return (
     <View style={styles.container}>
       <AddItem 
